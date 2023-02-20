@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/awilliswebsite/static/css/main.073c9b0a.css",
-    "main.js": "/awilliswebsite/static/js/main.11bba9ee.js",
+    "main.css": "/awilliswebsite/static/css/main.e6c13ad2.css",
+    "main.js": "/awilliswebsite/static/js/main.bc186b78.js",
     "static/js/787.2e2b890b.chunk.js": "/awilliswebsite/static/js/787.2e2b890b.chunk.js",
+    "static/media/bust.png": "/awilliswebsite/static/media/bust.86ca3a1ce3e1996d51c9.png",
     "index.html": "/awilliswebsite/index.html",
-    "main.073c9b0a.css.map": "/awilliswebsite/static/css/main.073c9b0a.css.map",
-    "main.11bba9ee.js.map": "/awilliswebsite/static/js/main.11bba9ee.js.map",
+    "main.e6c13ad2.css.map": "/awilliswebsite/static/css/main.e6c13ad2.css.map",
+    "main.bc186b78.js.map": "/awilliswebsite/static/js/main.bc186b78.js.map",
     "787.2e2b890b.chunk.js.map": "/awilliswebsite/static/js/787.2e2b890b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.11bba9ee.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bc186b78.js"
   ]
 }
