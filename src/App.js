@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Hello, this is the website of Andrew Charles Willis. 
+      My name is Andrew Willis, and this is my website. More will come. 
     </div>
   );
 }
