@@ -1,11 +1,14 @@
 import React from 'react';
-import Me from '../components/myBust.js'
+import Header from '../components/Header.js';
+import Content from '../components/mainContent.js';
 
 const Home = () => {
     return (
-        <div>
-            <Me />
-        </div>
+        <>
+            <Content />
+            <Header />
+            
+        </>
     );
 }
 
