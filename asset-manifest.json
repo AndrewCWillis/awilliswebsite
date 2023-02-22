@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/awilliswebsite/static/css/main.44f8b8b5.css",
-    "main.js": "/awilliswebsite/static/js/main.442e2dfc.js",
+    "main.css": "/awilliswebsite/static/css/main.209ea625.css",
+    "main.js": "/awilliswebsite/static/js/main.4d3fade3.js",
     "static/js/787.2e2b890b.chunk.js": "/awilliswebsite/static/js/787.2e2b890b.chunk.js",
+    "static/media/discover.gif": "/awilliswebsite/static/media/discover.4dac9c4200ad7f956ad9.gif",
     "static/media/bust.png": "/awilliswebsite/static/media/bust.86ca3a1ce3e1996d51c9.png",
     "index.html": "/awilliswebsite/index.html",
-    "main.44f8b8b5.css.map": "/awilliswebsite/static/css/main.44f8b8b5.css.map",
-    "main.442e2dfc.js.map": "/awilliswebsite/static/js/main.442e2dfc.js.map",
+    "main.209ea625.css.map": "/awilliswebsite/static/css/main.209ea625.css.map",
+    "main.4d3fade3.js.map": "/awilliswebsite/static/js/main.4d3fade3.js.map",
     "787.2e2b890b.chunk.js.map": "/awilliswebsite/static/js/787.2e2b890b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44f8b8b5.css",
-    "static/js/main.442e2dfc.js"
+    "static/css/main.209ea625.css",
+    "static/js/main.4d3fade3.js"
   ]
 }
