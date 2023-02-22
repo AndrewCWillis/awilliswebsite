@@ -1,6 +1,9 @@
 import React, { useState } from 'react';
 import Me from '../components/myBust.js'
+/*
+    - displays a picture of me right now, not sure what else I will put in here
 
+*/
 const Sidebar = () => {
     const sidebar = {
         position: "fixed",
